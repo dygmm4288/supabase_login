@@ -12,6 +12,7 @@
     "vite": "^6.0.1"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.47.8"
+    "@supabase/supabase-js": "^2.47.8",
+    "lodash": "^4.17.21"
   }
 }
